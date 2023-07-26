@@ -1,3 +1,3 @@
 # Table of contents
 
-* [gitbook-sync](README.md)
+* [Page](README.md)

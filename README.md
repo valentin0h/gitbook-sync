@@ -6,6 +6,8 @@
 
 
 
+{% @arcade/embed flowId="hXlLoo07JHQHV54DYUkr" url="https://app.arcade.software/share/hXlLoo07JHQHV54DYUkr" %}
+
 ```runkit  nodeVersion="17.x.x"
 name: arcade
 title: Arcade
